@@ -1,0 +1,104 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "title": "Eğitim",
+            "oneri": "Yeni bir konu öğrenmek için online bir kursa kaydolun."
+        },
+        {
+            "id": 2,
+            "title": "Sağlık",
+            "oneri": "Günde en az 30 dakika egzersiz yapmayı unutmayın."
+        },
+        {
+            "id": 3,
+            "title": "Gelişim",
+            "oneri": "Her gün bir kitap okuyarak kendinizi geliştirin."
+        },
+        {
+            "id": 4,
+            "title": "Üretkenlik",
+            "oneri": "Önemli görevlere odaklanmak için günlük plan yapın."
+        },
+        {
+            "id": 5,
+            "title": "Sosyal İlişkiler",
+            "oneri": "Aile üyelerinizle düzenli olarak zaman geçirin."
+        },
+        {
+            "id": 6,
+            "title": "Hobi",
+            "oneri": "Yeni bir hobiyi deneyerek stres atın."
+        },
+        {
+            "id": 7,
+            "title": "Finans",
+            "oneri": "Bütçenizi düzenleyerek tasarruf yapmaya çalışın."
+        },
+        {
+            "id": 8,
+            "title": "Teknoloji",
+            "oneri": "Yeni bir teknolojik beceri öğrenmeye çalışın."
+        },
+        {
+            "id": 9,
+            "title": "Doğa",
+            "oneri": "Haftada bir doğa yürüyüşüne çıkın."
+        },
+        {
+            "id": 10,
+            "title": "Meditasyon",
+            "oneri": "Günde birkaç dakika meditasyon yapın."
+        },
+        {
+            "id": 11,
+            "title": "Gönüllülük",
+            "oneri": "Yakınınızdaki bir hayır kurumuna gönüllü olun."
+        },
+        {
+            "id": 12,
+            "title": "Kariyer",
+            "oneri": "Kariyer hedeflerinizi belirleyin ve adım atın."
+        },
+        {
+            "id": 13,
+            "title": "Evcil Hayvan",
+            "oneri": "Evcil hayvan sahiplenmeyi düşünün."
+        },
+        {
+            "id": 14,
+            "title": "Gezi",
+            "oneri": "Yeni bir şehir veya ülke keşfedin."
+        },
+        {
+            "id": 15,
+            "title": "Sanat",
+            "oneri": "Bir sanat etkinliğine katılın veya yeni bir sanat dalını deneyin."
+        },
+        {
+            "id": 16,
+            "title": "Gurme",
+            "oneri": "Farklı mutfaklardan yemek tarifleri deneyin."
+        },
+        {
+            "id": 17,
+            "title": "Dil Öğrenimi",
+            "oneri": "Yeni bir dil öğrenmeye başlayın."
+        },
+        {
+            "id": 18,
+            "title": "Moda",
+            "oneri": "Gardırobunuzu düzenleyip gereksizleri bağışlayın."
+        },
+        {
+            "id": 19,
+            "title": "İletişim",
+            "oneri": "Yakınınızdaki bir arkadaşınızla iletişim kurun."
+        },
+        {
+            "id": 20,
+            "title": "Dijital Detoks",
+            "oneri": "Bir gün boyunca sosyal medyadan uzak durun."
+        }
+    ]
+}
